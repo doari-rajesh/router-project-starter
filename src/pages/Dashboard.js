@@ -1,5 +1,4 @@
 import React from "react";
-import { useNavigate } from "react-router-dom";
 
 const Dashboard = ({ setIsLoggedIn, isLoggedIn }) => {
   // const navigate = useNavigate();
