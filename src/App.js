@@ -3,9 +3,10 @@ import Home from "./pages/Home";
 import Login from "./pages/Login";
 import Signup from "./pages/Signup";
 import Dashboard from "./pages/Dashboard";
-import PrivateRoute from './components/PrivateRoute'
+import PrivateRoute from "./components/PrivateRoute";
 import { Route, Routes } from "react-router-dom";
 import { useState, useEffect } from "react";
+
 import "./App.css";
 
 function App() {
